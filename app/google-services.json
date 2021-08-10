@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253027983089",
+    "project_id": "projeto1-e9428",
+    "storage_bucket": "projeto1-e9428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253027983089:android:000221ca332725a6cb5350",
+        "android_client_info": {
+          "package_name": "com.example.fiobranco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253027983089-jk3amt5lda3gstug0m5tvqg8moor6rmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiobranco",
+            "certificate_hash": "101fb3ac0b3a2d82f34d80e1a2ed0a8715ae454b"
+          }
+        },
+        {
+          "client_id": "253027983089-4q6h3lknq0l94d1ahe3unkoac5of51i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV7FrR_KH8PclWsM1xuL_r3m8nmaeefRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253027983089-4q6h3lknq0l94d1ahe3unkoac5of51i0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
